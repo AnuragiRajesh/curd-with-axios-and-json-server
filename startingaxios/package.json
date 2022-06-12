@@ -1,0 +1,19 @@
+{
+  "name": "startingaxios",
+  "version": "1.0.0",
+  "description": "we will learn how to install axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ads",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

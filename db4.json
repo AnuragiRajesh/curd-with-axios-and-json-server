@@ -1,0 +1,85 @@
+{
+  "web-series": [
+    {
+      "id": 1,
+      "title": "Rocket Boys",
+      "year": 2022
+    },
+    {
+      "id": 2,
+      "title": "Scam",
+      "year": 2020
+    },
+    {
+      "id": 3,
+      "title": "Paatal Lok",
+      "year": 2020
+    },
+    {
+      "id": 4,
+      "title": "Aspirants",
+      "year": 2021
+    }
+  ],
+  "books": [
+    {
+      "id": 2,
+      "name": "The Loard of the Rings",
+      "author": "J.R.R"
+    },
+    {
+      "id": 3,
+      "name": "The Kite Runner ",
+      "author": "Khaled Hosseini"
+    },
+    {
+      "name": "The Jungle Book",
+      "author": "Mogli",
+      "id": 4,
+      "rating: 5": ""
+    },
+    {
+      "name": "4567890",
+      "author": "yiwyeryt",
+      "id": 5,
+      "{ name:\"639587962745\", author:\"ruewpiutp\"}": ""
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "name": "War",
+      "actor": "Tiger shroff"
+    },
+    {
+      "id": 2,
+      "name": "Dangal",
+      "actor": "Amir-Khan"
+    },
+    {
+      "id": 3,
+      "name": "PK",
+      "actor": "Amir-Khan"
+    },
+    {
+      "id": 4,
+      "name": "Kabir Singh",
+      "actor": "Shahid-Kapoor"
+    },
+    {
+      "id": 5,
+      "name": "Sanju",
+      "actor": "Ranveer-Kapoor"
+    },
+    {
+      "id": 6,
+      "name": "Kick",
+      "actor": "Salman-Khan"
+    },
+    {
+      "id": 7,
+      "name": "Krish",
+      "actor": "Ritik-Roshan"
+    }
+  ]
+}
